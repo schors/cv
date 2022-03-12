@@ -1,0 +1,42 @@
+% !TeX TS-program = xelatex
+
+\documentclass[letter,10pt]{article}
+
+\usepackage{PKresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{Philipp Kulin} % Name 
+%\def\phone{}
+\def\city{St.Petersburg, Russia}
+\def\email{schors@gmail.com}
+\def\LinkedIn{schors} % linkedin username
+\def\github{schors} % github username
+\def\role{System Engineer} % Job titlr
+
+\input{_header}
+\begin{document}
+\input{sesections/objective}
+
+\section{Skills}
+\input{sesections/skills}
+
+\section{Experience}
+\input{sesections/experience}
+
+\section{Projects}
+\input{sesections/projects}
+
+\section{Education}
+\input{sesections/education}
+
+% make a newpage wherever it is a clean break
+% \newpage
+
+\section{Public talks}
+\input{sesections/pubtalks}
+
+
+\end{document}
+
