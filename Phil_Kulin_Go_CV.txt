@@ -1,0 +1,55 @@
+                                               Philipp Kulin
+St.Petersburg, Russia                                                                                       GitHub: schors
+schors@gmail.com                            Golang Software Engineer                                      LinkedIn: schors
+
+Looking for a job outside Russia preferably in Finland, in EU, in the USA, in Canada, in Cyprus.
+I want to work in a simple boring company without great mission.
+SKILLS
+Languages                   Proficient: Golang, Python, Perl Experienced: C, Shell, HTML, CSS
+Platforms                   Linux, KVM, Docker, Ubuntu, FreeBSD, MySQL, PostgreSQL, LAMP
+Tools                       Git, Ansible, vim, Prometheus, Grafana
+Interests                   Compilers, DNS/DNSSEC/DoH/DoT, IoT, Webhosting
+Communication               English (professional use), Russian (native)
+EXPERIENCE
+Golang Software Engineer / Electronic tracking systems
+SPbEC Mining, St.Petersburg, Russia | Oct 2020 — Present
+• Developed embedded devices (RS485) scraper: Golang, grpc
+• Maintained CI/CD: Jira, Gitlab
+• Introduced a monitoring system: Prometheus, Grafana
+• Shared best practices and guided 5+ engineering team: WSL2, Docker, gnuplot, metrics, tests
+• Also worked directly in the mines
+System Architector and Software Engineer / Webhosting
+DiPHOST.RU (diphost.ru), St.Petersburg, Russia | Aug 2006 — Oct 2020
+• Built and maintained webhosting control panel: Perl, Python, Twisted, XML, XSLT, MySQL
+• Owned and operated webhosting infrastructure: FreeBSD, Linux, SmartOS, ZFS, Docker, Ansible, Apache, Nginx, Exim,
+  Cyrus IMAP, Dovecot, NSD, Unbound
+• Was a heroic technical support
+Software Developer / Crawler engine
+eFind.ru (efind.ru), St.Petersburg, Russia | Nov 2006 — Sep 2009
+• Rewrote crawler engine to search electronic componets in the stocks online: pure Python event driven, XML
+Software Engineer and System Administrator / Webhosting
+ Peterhost.ru, St.Petersburg, Russia | Apr 2002 — Nov 2006
+• Created webhosting control panel from the ground: Perl, XML, XSLT, MySQL
+• Built and operated webhosting infrastructure: FreeBSD, Linux, Apache, Nginx, Exim, Cyrus IMAP, BIND
+Software Developer / Marine equipment
+CSRI Electropribor, St.Petersburg, Russia | Apr 1997 — Apr 2002
+• Built software for marine navigation systems: C, assembler
+
+PROJECTS
+Creator
+User II usher2.club, Community project | Apr 2018 — Present
+• Created website about internet restrictions in Russia: usher2.club: HTML, Twitter Bootstrap
+• Developed Russian internet blacklist’s database: Python, Flask
+• Developed Telegram bot t.me/u2ckbot to check if a resource in the Russian internet blacklist: Golang
+
+EDUCATION
+Automation of technological processes and productions, Peter the Great St.Petersburg Polytechnic University 1993 — 1996
+PUBLIC TALKS
+RootConf 2009 (Moscow, Russia): Simple mail server architecture (presentation) (in Russian)                     Apr 2009
+ENOG 4 (Moscow, Russia): Hosting providers and content complaints (presentation) (in Russian)                   Oct 2012
+ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                         Oct 2017
+CryptoInsatallFest 5 (Moscow, Russia): A popular DNS security overview (presentation) (in Russian)              Oct 2018
+HighLoad++ 2018 (Moscow, Russia): Russia internet restriction’s technical issues (presentation) (in Russian)    Nov 2018
+GolangConf 2019 (Moscow, Russia): Why Golang so strange? (video and slides) (in Russian)                        Oct 2019
+Saint HighLoad++ 2021 (St.Petersbug, Russia): A popular DNS security overview (presentation) (in Russian)       Sep 2021
+

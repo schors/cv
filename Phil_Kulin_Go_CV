@@ -15,5 +15,7 @@ rm -f ${article}.toc
 rm -f ${article}.vrb
 
 
-docker run -ti --rm -u `id -u`:`id -g` -v /home:/home -w `pwd` -e HOME=$HOME texlive/texlive xelatex ${article}.tex
+if docker run -ti --rm -u `id -u`:`id -g` -v /home:/home -w `pwd` -e HOME=$HOME texlive/texlive xelatex ${article}.tex; then
+        pdftotext -layout ${article}.pdf
+fi
 
