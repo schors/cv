@@ -17,5 +17,6 @@ rm -f ${article}.vrb
 
 if docker run -ti --rm -u `id -u`:`id -g` -v /home:/home -w `pwd` -e HOME=$HOME texlive/texlive xelatex ${article}.tex; then
         pdftotext -layout ${article}.pdf
+        convert -strip -verbose -density 300 ${article}.pdf -quality 90 -resize 800 -background white -alpha remove -alpha off PNG24:${article}.png
 fi
 
