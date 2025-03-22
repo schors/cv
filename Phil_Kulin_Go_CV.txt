@@ -1,55 +1,54 @@
                                                Philipp Kulin
-St.Petersburg, Russia                                                                                       GitHub: schors
-schors@gmail.com                            Golang Software Engineer                                      LinkedIn: schors
+Vilnius, Lithuania                                                                                            GitHub: schors
+schors@gmail.com                           Golang Software Engineer                                         LinkedIn: schors
 
-Looking for a job outside Russia preferably in Finland, in EU, in the USA, in Canada, in Cyprus.
-I want to work in a simple boring company without great mission.
-SKILLS
-Languages                   Proficient: Golang, Python, Perl Experienced: C, Shell, HTML, CSS
-Platforms                   Linux, KVM, Docker, Ubuntu, FreeBSD, MySQL, PostgreSQL, LAMP
-Tools                       Git, Ansible, vim, Prometheus, Grafana
-Interests                   Compilers, DNS/DNSSEC/DoH/DoT, IoT, Webhosting
-Communication               English (professional use), Russian (native)
-EXPERIENCE
-Golang Software Engineer / Electronic tracking systems
-SPbEC Mining, St.Petersburg, Russia | Oct 2020 — Present
-• Developed embedded devices (RS485) scraper: Golang, grpc
-• Maintained CI/CD: Jira, Gitlab
-• Introduced a monitoring system: Prometheus, Grafana
-• Shared best practices and guided 5+ engineering team: WSL2, Docker, gnuplot, metrics, tests
-Software Developer / Web backend
-DiPHOST.RU (diphost.ru), St.Petersburg, Russia | Aug 2016 — Oct 2020
-• Developed backend software for customers: Golang, Python
-System Architector / Webhosting
-DiPHOST.RU (diphost.ru), St.Petersburg, Russia | Aug 2006 — Oct 2020
-• Built and maintained webhosting control panel: Perl, Python, Twisted, XML, Golang, XSLT, MySQL
-• Owned and operated webhosting infrastructure: FreeBSD, Linux, SmartOS, ZFS, Docker, Ansible, Apache, Nginx, Exim,
-  Cyrus IMAP, Dovecot, NSD, Unbound
-Software Developer / Crawler engine
-eFind.ru (efind.ru), St.Petersburg, Russia | Nov 2006 — Sep 2009
-• Rewrote crawler engine to search electronic componets in the stocks online: pure Python event driven, XML
-System Architector / Webhosting
- Peterhost.ru, St.Petersburg, Russia | Apr 2002 — Nov 2006
-• Created webhosting control panel from the ground: Perl, XML, XSLT, MySQL
-• Built and operated webhosting infrastructure: FreeBSD, Linux, Apache, Nginx, Exim, Cyrus IMAP, BIND
-Software Developer / Marine equipment
-CSRI Electropribor, St.Petersburg, Russia | Apr 1997 — Apr 2002
-• Built software for marine navigation systems: C, assembler
+Looking for a job in Vilnius, Lithuania (office/remote/hybrid). Lithuanian EU Blue Card holder. Russian citizenship
+Skills
+Languages                  Proficient: Golang, Perl Experienced: Python, C, Shell, HTML, CSS
+Platforms                  Linux, Linux/KVM, Ubuntu, FreeBSD, Docker/Docker Compose, MySQL, PostgreSQL, LAMP
+Tools                      Git, GitHub Actions, Ansible, Prometheus, Grafana
+Interests                  Compilers, DNS/DNSSEC/DoH/DoT, IoT, Webhosting
+Communication              English (professional use), Russian (native), Lithuanian (basic)
+Experience
+Golang Software Engineer / Backend Developer
+NDA, Vilnius, Lithuania | Jan 2023 — Present
+• Customer onboarding and provisioning automation: architecture design and software development for VPN user
+  management and service instances
+• VPN features: implemented custom server patches for traffic accounting and limiting (Outline, Cloak, Project-X, Amnezia
+  WireGuard)
+• CI/CD: GitHub Actions, Debian packaging
+• Telegram Jira Service Management integration: Golang, REST APIs
+• Team leadership: supervising 2 engineers
+Golang Software Engineer / Electronic Tracking Systems
+SPbEC Mining, St. Petersburg, Russia | Oct 2020 — Aug 2022
+• Embedded RS485 scrapers: Golang, gRPC
+• CI/CD: GitLab, Jira
+• Monitoring solution setup: Prometheus, Grafana
+• Mentorship: guided 5+ engineers, shared best practices (WSL2, Docker, metrics, tests, gnuplot)
+Software Developer / Web Backend
+DiPHOST.RU (diphost.ru), St. Petersburg, Russia | Aug 2016 — Oct 2020
+• Backend development for customer projects: Golang, Python
+System Architect / Web Hosting
+DiPHOST.RU (diphost.ru), St. Petersburg, Russia | Aug 2006 — Oct 2020
+• Web hosting control panel: Perl, Python, Twisted, XML/XSLT, Golang, MySQL
+• Infrastructure management: FreeBSD, Linux, SmartOS, ZFS, Docker, Ansible, Apache, Nginx, Exim, Cyrus IMAP, Dovecot,
+  NSD, Unbound
+Software Developer / Web Crawler Engine
+eFind.ru (efind.ru), St. Petersburg, Russia | Nov 2006 — Sep 2009
+• Web crawler rewrite: event-driven architecture, pure Python, XML
+System Architect / Web Hosting
+Peterhost.ru, St. Petersburg, Russia | Apr 2002 — Nov 2006
+• Web hosting control panel from scratch: Perl, XML/XSLT, MySQL
+• Infrastructure setup and maintenance: FreeBSD, Linux, Apache, Nginx, Exim, Cyrus IMAP, BIND
 
-PROJECTS
-Creator
-User II usher2.club, Community project | Apr 2018 — Present
-• Created website about internet restrictions in Russia: usher2.club: HTML, Twitter Bootstrap
-• Developed Russian internet blacklist’s database and Telegram bot: Golang, Python, Flask
-
-EDUCATION
-Automation of technological processes and productions, Peter the Great St.Petersburg Polytechnic University 1993 — 1996
-PUBLIC TALKS
-RootConf 2009 (Moscow, Russia): Simple mail server architecture (presentation) (in Russian)                     Apr 2009
-ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                         Oct 2017
-CryptoInsatallFest 5 (Moscow, Russia): A popular DNS security overview (presentation) (in Russian)              Oct 2018
-HighLoad++ 2018 (Moscow, Russia): Russia internet restriction’s technical issues (presentation) (in Russian)    Nov 2018
-GolangConf 2019 (Moscow, Russia): Why Golang so strange? (video and slides) (in Russian)                        Oct 2019
-A-level meetut (Kazan, Russia) XML parsing with limited resources using Golang (presentation) (in Russian)      Feb 2020
-Saint HighLoad++ 2021 (St.Petersbug, Russia): A popular DNS security overview (presentation) (in Russian)       Sep 2021
+Education
+Automation of technological processes and productions, Peter the Great St.Petersburg Polytechnic University    1993 — 1996
+Public talks
+RootConf 2009 (Moscow, Russia): Simple mail server architecture (presentation) (in Russian)                           Apr 2009
+ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                               Oct 2017
+CryptoInsatallFest 5 (Moscow, Russia): A popular DNS security overview (presentation) (in Russian)                    Oct 2018
+HighLoad++ 2018 (Moscow, Russia): Russia internet restriction’s technical issues (presentation) (in Russian)          Nov 2018
+GolangConf 2019 (Moscow, Russia): Why Golang so strange? (video and slides) (in Russian)                              Oct 2019
+A-level meetut (Kazan, Russia) XML parsing with limited resources using Golang (presentation) (in Russian)            Feb 2020
+Saint HighLoad++ 2021 (St.Petersbug, Russia): A popular DNS security overview (presentation) (in Russian)             Sep 2021
 

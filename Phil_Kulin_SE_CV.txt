@@ -1,19 +1,21 @@
                                                Philipp Kulin
-St.Petersburg, Russia                                                                                       GitHub: schors
-schors@gmail.com                                   System Engineer                                        LinkedIn: schors
+Vilnius, Lithuania                                                                                            GitHub: schors
+schors@gmail.com                                  System Engineer                                           LinkedIn: schors
 
-Looking for a job outside Russia preferably in Finland, in EU, in the USA, in Canada, in Cyprus.
-I want to work in a simple boring company without great mission.
-SKILLS
-Languages                   Golang, Python, Perl, C, Shell, HTML, CSS
-Platforms                   Linux, KVM, Docker, Ubuntu, FreeBSD
-Tools                       Ansible, Prometheus, Grafana, NSD, Unbound, Knot, BIND, Exim, Cyrus IMAP, Dovecot, MySQL,
-                            PostgreSQL, LAMP
-Interests                   Operation Systems, DNS/DNSSEC/DoH/DoT, Webhosting
-Communication               English (professional use), Russian (native)
-EXPERIENCE
+Looking for a job in Vilnius, Lithuania (office/remote/hybrid). Lithuanian EU Blue Card holder. Russian citizenship
+Skills
+Languages                  Golang, Python, Perl, C, Shell, HTML, CSS
+Platforms                  Linux, KVM, Docker, Ubuntu, FreeBSD
+Tools                      Ansible, Prometheus, Grafana, NSD, Unbound, Knot, BIND, Exim, Cyrus IMAP, Dovecot, MySQL,
+                           PostgreSQL, LAMP
+Interests                  Operation Systems, DNS/DNSSEC/DoH/DoT, Webhosting
+Communication              English (professional use), Russian (native), Lithuanian (basic)
+Experience
+Golang Software Engineer / Backend Developer
+NDA, Vilnius, Lithuania | Jan 2023 — Present
+• CI/CD: GitHub Actions, Debian packaging
 Golang Software Engineer / DevOps practices
-SPbEC Mining, St.Petersburg, Russia | Oct 2020 — Present
+SPbEC Mining, St.Petersburg, Russia | Oct 2020 — Aug 2022
 • Maintained CI/CD: Jira, Gitlab
 • Introduced a monitoring system: Prometheus, Grafana
 System Engineer
@@ -32,25 +34,15 @@ Software Engineer and System Administrator / Webhosting
 • Built and operated webhosting infrastructure: FreeBSD, Linux, Apache, Nginx, E-mail, DNS
 • Designed, implemented and maintained webhosting L2/L3 network: Cisco, Allied Telesis, BGP
 • Created custom simple monitoring system: Netflow, Perl, HTML, CSS, rrdtool, Nagios
-Software Developer / Infranet
-CSRI Electropribor, St.Petersburg, Russia | Apr 1997 — Apr 2002
-• Designed, implemented and maintained internal network
-• Troubleshot, identified, and replaced faulty hardware components in computer systems
 
-PROJECTS
-Creator
-User II usher2.club, Community project | Apr 2018 — Present
-• Created website about internet restrictions in Russia: usher2.club: HTML, Twitter Bootstrap, Python, Flask, Golang
-• Maintained bot infrastructure: Linux, Docker
-
-EDUCATION
-Automation of technological processes and productions, Peter the Great St.Petersburg Polytechnic University 1993 — 1996
-PUBLIC TALKS
-RootConf 2009 (Moscow, Russia): Simple mail server architecture (presentation) (in Russian)                     Apr 2009
-ENOG 4 (Moscow, Russia): Hosting providers and content complaints (presentation) (in Russian)                   Oct 2012
-ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                         Oct 2017
-CryptoInsatallFest 5 (Moscow, Russia): A popular DNS security overview (presentation) (in Russian)              Oct 2018
-HighLoad++ 2018 (Moscow, Russia): Russia internet restriction’s technical issues (presentation) (in Russian)    Nov 2018
-GolangConf 2019 (Moscow, Russia): Why Golang so strange? (video and slides) (in Russian)                        Oct 2019
-Saint HighLoad++ 2021 (St.Petersbug, Russia): A popular DNS security overview (presentation) (in Russian)       Sep 2021
+Education
+Automation of technological processes and productions, Peter the Great St.Petersburg Polytechnic University    1993 — 1996
+Public talks
+RootConf 2009 (Moscow, Russia): Simple mail server architecture (presentation) (in Russian)                           Apr 2009
+ENOG 4 (Moscow, Russia): Hosting providers and content complaints (presentation) (in Russian)                         Oct 2012
+ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                               Oct 2017
+CryptoInsatallFest 5 (Moscow, Russia): A popular DNS security overview (presentation) (in Russian)                    Oct 2018
+HighLoad++ 2018 (Moscow, Russia): Russia internet restriction’s technical issues (presentation) (in Russian)          Nov 2018
+GolangConf 2019 (Moscow, Russia): Why Golang so strange? (video and slides) (in Russian)                              Oct 2019
+Saint HighLoad++ 2021 (St.Petersbug, Russia): A popular DNS security overview (presentation) (in Russian)             Sep 2021
 
