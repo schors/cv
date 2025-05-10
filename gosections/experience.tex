@@ -1,57 +1,48 @@
 \documentclass[letter,10pt]{article}
+% The PKresume package is a custom or non-standard package.
+% Ensure it is available in your LaTeX distribution or provide its source.
 \usepackage{PKresume}
 \begin{document}
 
 \subsection{Golang Software Engineer / Backend Developer}
-\subtext{NDA, Vilnius, Lithuania | Jan 2023 --- Present}
+\subtext{NDA, Vilnius, Lithuania | Sep 2022 --- Present}
 \begin{zitemize}
-\item Customer onboarding and provisioning automation: architecture design and software development for VPN user management and service instances
-\item VPN features: implemented custom server patches for traffic accounting and limiting (Outline, Cloak, Project-X, Amnezia WireGuard)
-\item CI/CD: GitHub Actions, Debian packaging
-\item Telegram ↔ Jira Service Management integration: Golang, REST APIs
-\item Team leadership: supervising 2 engineers
+        \item Architected and built automated VPN onboarding/provisioning platform (Go, Swagger APIs)
+        \item Patched Outline/Cloak/WireGuard for quotas and accounting
+        \item Created a Telegram-to-Jira SM connector service in Go
+        \item Collaborated as a three-person Scrum team
+        \item Leveraged ChatGPT to research and design, and GitHub Copilot to generate boilerplate code
 \end{zitemize}
 
 \subsection{Golang Software Engineer / Electronic Tracking Systems}
 \subtext{SPbEC Mining, St. Petersburg, Russia | Oct 2020 --- Aug 2022}
 \begin{zitemize}
-\item Embedded RS485 scrapers: Golang, gRPC
-\item CI/CD: GitLab, Jira
-\item Monitoring solution setup: Prometheus, Grafana
-\item Mentorship: guided 5+ engineers, shared best practices (WSL2, Docker, metrics, tests, gnuplot)
+        \item Developed Go backend for RFID system using RS‑485 networks and a custom protocol
+        \item Introduced Prometheus/Grafana monitoring and GitLab CI
+        \item Modernized our ancient DOS style workflow with WSL2 and Docker
+        \item Lead a five-person Kanban team
 \end{zitemize}
 
-\subsection{Software Developer / Web Backend}
-\subtext{DiPHOST.RU (\href{https://diphost.ru}{diphost.ru}), St. Petersburg, Russia | Aug 2016 --- Oct 2020}
+\subsection{Co-founder · CEO / Web hosting Platform}
+\subtext{DiPHOST.RU (\href{https://diphost.ru}{https://diphost.ru}), St. Petersburg, Russia | Aug 2006 --- Oct 2020}
 \begin{zitemize}
-\item Backend development for customer projects: Golang, Python
+        \item Created \& ran full‑stack web hosting platform (Perl, Python, Python/Twisted, Golang, MySQL)
+        \item Owned infra \& support: FreeBSD/Linux/SmartOS, ZFS, Docker, Ansible, Apache, Nginx, Exim, Cyrus IMAP, NSD
 \end{zitemize}
 
-\subsection{System Architect / Web Hosting}
-\subtext{DiPHOST.RU (\href{https://diphost.ru}{diphost.ru}), St. Petersburg, Russia | Aug 2006 --- Oct 2020}
+\subsection{Software Developer / Web Crawling}
+\subtext{eFind.ru (\href{https://efind.ru}{https://efind.ru}), St. Petersburg, Russia | Nov 2006 --- Sep 2009}
 \begin{zitemize}
-\item Web hosting control panel: Perl, Python, Twisted, XML/XSLT, Golang, MySQL
-\item Infrastructure management: FreeBSD, Linux, SmartOS, ZFS, Docker, Ansible, Apache, Nginx, Exim, Cyrus IMAP, Dovecot, NSD, Unbound
-\end{zitemize}
-
-\subsection{Software Developer / Web Crawler Engine}
-\subtext{eFind.ru (\href{https://efind.ru}{efind.ru}), St. Petersburg, Russia | Nov 2006 --- Sep 2009}
-\begin{zitemize}
-\item Web crawler rewrite: event-driven architecture, pure Python, XML
+        \item Re‑wrote store‑scraping crawler in pure Python (event‑driven, XML)
+        \item Performance gains removed need for new servers—full load ran on existing hardware
 \end{zitemize}
 
 \subsection{System Architect / Web Hosting}
 \subtext{Peterhost.ru, St. Petersburg, Russia | Apr 2002 --- Nov 2006}
 \begin{zitemize}
-\item Web hosting control panel from scratch: Perl, XML/XSLT, MySQL
-\item Infrastructure setup and maintenance: FreeBSD, Linux, Apache, Nginx, Exim, Cyrus IMAP, BIND
+        \item Promoted from support role, where I provided technical assistance to clients, resolved hosting-related issues, and ensured system uptime
+        \item Single‑handedly built webhosting control panel (Perl, XML/XSLT, MySQL)
+        \item Scaled and ran infrastructure: FreeBSD/Linux, Apache/Nginx, Exim/Cyrus IMAP, BIND DNS
 \end{zitemize}
 
-%\subsection{{Software Developer / Marine equipment}}
-%\subtext{NDA, St.Petersburg, Russia | Apr 1997 --- Apr 2002}
-%\begin{zitemize}
-%\item Built software for marine navigation systems: C, assembler
-%\end{zitemize}
-%
-%
 \end{document}

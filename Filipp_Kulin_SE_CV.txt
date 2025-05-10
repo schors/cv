@@ -3,17 +3,18 @@ Vilnius, Lithuania                                                              
 schors@gmail.com                                  System Engineer                                           LinkedIn: schors
 
 Looking for a job in Vilnius, Lithuania (office/remote/hybrid). Lithuanian EU Blue Card holder. Russian citizenship
-Skills
+SKILLS
 Languages                  Golang, Python, Perl, C, Shell, HTML, CSS
 Platforms                  Linux, KVM, Docker, Ubuntu, FreeBSD
 Tools                      Ansible, Prometheus, Grafana, NSD, Unbound, Knot, BIND, Exim, Cyrus IMAP, Dovecot, MySQL,
                            PostgreSQL, LAMP
 Interests                  Operation Systems, DNS/DNSSEC/DoH/DoT, Webhosting
 Communication              English (professional use), Russian (native), Lithuanian (basic)
-Experience
+EXPERIENCE
 Golang Software Engineer / Backend Developer
 NDA, Vilnius, Lithuania | Jan 2023 — Present
 • CI/CD: GitHub Actions, Debian packaging
+• Operated and maintained VPN infrastructure: WireGuard, Outline, Project-X, Amnezia
 Golang Software Engineer / DevOps practices
 SPbEC Mining, St.Petersburg, Russia | Oct 2020 — Aug 2022
 • Maintained CI/CD: Jira, Gitlab
@@ -35,9 +36,9 @@ Software Engineer and System Administrator / Webhosting
 • Designed, implemented and maintained webhosting L2/L3 network: Cisco, Allied Telesis, BGP
 • Created custom simple monitoring system: Netflow, Perl, HTML, CSS, rrdtool, Nagios
 
-Education
-Automation of technological processes and productions, Peter the Great St.Petersburg Polytechnic University    1993 — 1996
-Public talks
+EDUCATION
+Automation of technological processes and productions, Peter the Great St.Petersburg Polytechnic University 1993 — 1996
+PUBLIC TALKS
 RootConf 2009 (Moscow, Russia): Simple mail server architecture (presentation) (in Russian)                           Apr 2009
 ENOG 4 (Moscow, Russia): Hosting providers and content complaints (presentation) (in Russian)                         Oct 2012
 ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                               Oct 2017
