@@ -1,35 +1,36 @@
-                                                  Filipp Kulin
+                                                Filipp Kulin
 Vilnius, Lithuania                                                                                          GitHub: schors
-schors@gmail.com                            Golang Software Engineer                                      LinkedIn: schors
+schors@gmail.com                          Golang Software Engineer                                        LinkedIn: schors
 
-Looking for a job in Vilnius, Lithuania (office/hybrid). Lithuanian EU Blue Card holder
+Open to Golang backend roles in Vilnius, Lithuania (office/hybrid). Lithuanian EU Blue Card holder
 SKILLS
-Languages                   Proficient: Golang, Perl Experienced: Python, C, Shell, HTML, CSS
-Platforms                   Linux, Linux/KVM, Ubuntu, FreeBSD, Docker/Docker Compose, MySQL, PostgreSQL, LAMP
-Tools                       Git, GitHub Actions, Ansible, Prometheus, Grafana
-Interests                   Compilers, DNS/DNSSEC/DoH/DoT, IoT, Webhosting
-Communication               English (professional use), Russian (native), Lithuanian (basic)
+Languages Proficient:      Golang, Perl
+Languages Experienced:     Python, C, Shell, HTML, CSS
+Platforms                  Linux/KVM, FreeBSD, Docker/Docker Compose, MySQL, PostgreSQL, LAMP
+Tools                      Git, GitHub Actions, Ansible, Prometheus, Grafana
+Interests                  Compilers, DNS/DNSSEC/DoH/DoT, IoT, Webhosting
+Communication              English (professional use), Russian (native), Lithuanian (basic)
 CORE STRENGTHS
 • Persistent, detail-driven problem-solver
 • Self-sufficient: delivers complete, production-ready solutions with minimal oversight
-• Experience in cross-platform migrations (infra, code, data)
+• Led multiple cross-platform migrations (infra, code, data)
 • Comfortable delivering software for real-sector / industrial domains
 
 EXPERIENCE
 Golang Software Engineer / Backend Developer
-NDA, Vilnius, Lithuania | Sep 2022 — Present
+NDA, Vilnius, Lithuania | Jan 2023 — Present
 • Architected and built automated VPN onboarding/provisioning platform (Go, Swagger APIs)
 • Patched Outline/Cloak/WireGuard for quotas and accounting
 • Created a Telegram-to-Jira SM connector service in Go
-• Collaborated as a three-person Scrum team
-• Leveraged ChatGPT to research and design, and GitHub Copilot to generate boilerplate code
+• Collaborated as a 3-person Scrum team
+• Used AI assistant to streamline documentation and code reviews
 Golang Software Engineer / Electronic Tracking Systems
 SPbEC Mining, St. Petersburg, Russia | Oct 2020 — Aug 2022
 • Developed Go backend for RFID system using RS‑485 networks and a custom protocol
 • Introduced Prometheus/Grafana monitoring and GitLab CI
-• Modernized our ancient DOS style workflow with WSL2 and Docker
-• Lead a five-person Kanban team
-Co-founder · CEO / Web hosting Platform
+• Re-tooled legacy workflow with WSL2 and Docker
+• Led a 5-engineer Kanban team
+Founder · CTO / Web hosting Platform
 DiPHOST.RU (https://diphost.ru), St. Petersburg, Russia | Aug 2006 — Oct 2020
 • Created & ran full‑stack web hosting platform (Perl, Python, Python/Twisted, Golang, MySQL)
 • Owned infra & support: FreeBSD/Linux/SmartOS, ZFS, Docker, Ansible, Apache, Nginx, Exim, Cyrus IMAP, NSD
@@ -39,17 +40,15 @@ eFind.ru (https://efind.ru), St. Petersburg, Russia | Nov 2006 — Sep 2009
 • Performance gains removed need for new servers—full load ran on existing hardware
 System Architect / Web Hosting
 Peterhost.ru, St. Petersburg, Russia | Apr 2002 — Nov 2006
-• Promoted from support role, where I provided technical assistance to clients, resolved hosting-related issues, and
-  ensured system uptime
+• Advanced from Support by ensuring uptime and swiftly resolving client hosting issues
 • Single‑handedly built webhosting control panel (Perl, XML/XSLT, MySQL)
 • Scaled and ran infrastructure: FreeBSD/Linux, Apache/Nginx, Exim/Cyrus IMAP, BIND DNS
 
 EDUCATION
 Automation of technological processes and productions, Peter the Great St.Petersburg Polytechnic University 1993 — 1996
 PUBLIC TALKS
-ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                          Oct 2017
+ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                         Oct 2017
 HighLoad++ 2018 (Moscow, Russia): Russia internet restriction’s technical issues (presentation) (in Russian)    Nov 2018
-GolangConf 2019 (Moscow, Russia): Why Golang so strange? (video and slides) (in Russian)                         Oct 2019
-A-level meetut (Kazan, Russia) XML parsing with limited resources using Golang (presentation) (in Russian)       Feb 2020
-Saint HighLoad++ 2021 (St.Petersbug, Russia): A popular DNS security overview (presentation) (in Russian)       Sep 2021
+GolangConf 2019 (Moscow, Russia): Why Golang so strange? (video and slides) (in Russian)                        Oct 2019
+A-level meetut (Kazan, Russia) XML parsing with limited resources using Golang (presentation) (in Russian)      Feb 2020
 

@@ -1,49 +1,47 @@
-                                                 Filipp Kulin
-Vilnius, Lithuania                                                                                            GitHub: schors
-schors@gmail.com                                  System Engineer                                           LinkedIn: schors
+                                                Filipp Kulin
+Vilnius, Lithuania                                                                                          GitHub: schors
+schors@gmail.com                                 System Engineer                                          LinkedIn: schors
 
-Looking for a job in Vilnius, Lithuania (office/remote/hybrid). Lithuanian EU Blue Card holder. Russian citizenship
+Open to System Engineering roles in Vilnius, Lithuania (office/remote/hybrid). Lithuanian EU Blue Card holder
 SKILLS
-Languages                  Golang, Python, Perl, C, Shell, HTML, CSS
-Platforms                  Linux, KVM, Docker, Ubuntu, FreeBSD
-Tools                      Ansible, Prometheus, Grafana, NSD, Unbound, Knot, BIND, Exim, Cyrus IMAP, Dovecot, MySQL,
-                           PostgreSQL, LAMP
+Languages                  Golang, Python, Perl, C, Shell
+Networking                 BGP, WireGuard, RS-485, ipwf, iptables
+Platforms                  Linux/KVM, FreeBSD, Docker and Compose, SmartOS, ZFS
+Tools                      Ansible, Prometheus, Grafana, GitHub Actions, Borg Backup
 Interests                  Operation Systems, DNS/DNSSEC/DoH/DoT, Webhosting
 Communication              English (professional use), Russian (native), Lithuanian (basic)
+CORE STRENGTHS
+• Persistent, detail-driven problem-solver
+• Self-sufficient: delivers complete, production-ready solutions with minimal oversight
+• Led multiple cross-platform migrations (infra, code, data)
+• Comfortable delivering software for real-sector / industrial domains
+
 EXPERIENCE
 Golang Software Engineer / Backend Developer
 NDA, Vilnius, Lithuania | Jan 2023 — Present
 • CI/CD: GitHub Actions, Debian packaging
-• Operated and maintained VPN infrastructure: WireGuard, Outline, Project-X, Amnezia
-Golang Software Engineer / DevOps practices
+• Architected, deployed, operated and maintained VPN infrastructure: WireGuard, Outline, Project-X, Amnezia
+Golang Software Engineer / Electronic Tracking Systems
 SPbEC Mining, St.Petersburg, Russia | Oct 2020 — Aug 2022
-• Maintained CI/CD: Jira, Gitlab
-• Introduced a monitoring system: Prometheus, Grafana
-System Engineer
-Freelance | 2009 — Present
-• Designed, implemented and maintained customers webservers: Linux, Docker, KVM, ZFS, LAMP, Prometheus, Grafana
-• Performed migrations between servers or/and platforms if required
-• Provided extra services for customers: E-mail, DNS, Proxy
-• Developed backup system using BorgBackup. Contributed to BorgBackup
-System Architector and Software Engineer / Webhosting
+• Introduced Prometheus/Grafana monitoring
+• Mentored 5 engineers on Linux and observability tools
+Founder · CTO / Webhosting Platform
 DiPHOST.RU (diphost.ru), St.Petersburg, Russia | Aug 2006 — Oct 2020
-• Owned and operated webhosting infrastructure: FreeBSD, Linux, SmartOS, ZFS, Docker, LAMP, E-mail, DNS
-• Maintained several monitoring systems: Prometheus, Grafana, collectd, Cacti, Nagios
+• Owned and operated webhosting infrastructure: LAMP, E-mail, DNS
+• Automated billing, DNS, mail, backups
 • Was a heroic technical support
-Software Engineer and System Administrator / Webhosting
+System Architect / Webhosting
  Peterhost.ru, St.Petersburg, Russia | Apr 2002 — Nov 2006
-• Built and operated webhosting infrastructure: FreeBSD, Linux, Apache, Nginx, E-mail, DNS
-• Designed, implemented and maintained webhosting L2/L3 network: Cisco, Allied Telesis, BGP
-• Created custom simple monitoring system: Netflow, Perl, HTML, CSS, rrdtool, Nagios
+• Advanced from Support by ensuring uptime and swiftly resolving client hosting issues
+• Built custom webhosting architecture: FreeBSD/Linux, Apache/Nginx, Exim/Cyrus IMAP, NSD
+• Designed L2/L3 network (Cisco, Allied Telesis) and BGP uplinks
+• Deployed custom monitoring stack (rrdtool, Nagios)
 
 EDUCATION
 Automation of technological processes and productions, Peter the Great St.Petersburg Polytechnic University 1993 — 1996
 PUBLIC TALKS
-RootConf 2009 (Moscow, Russia): Simple mail server architecture (presentation) (in Russian)                           Apr 2009
-ENOG 4 (Moscow, Russia): Hosting providers and content complaints (presentation) (in Russian)                         Oct 2012
-ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                               Oct 2017
-CryptoInsatallFest 5 (Moscow, Russia): A popular DNS security overview (presentation) (in Russian)                    Oct 2018
-HighLoad++ 2018 (Moscow, Russia): Russia internet restriction’s technical issues (presentation) (in Russian)          Nov 2018
-GolangConf 2019 (Moscow, Russia): Why Golang so strange? (video and slides) (in Russian)                              Oct 2019
-Saint HighLoad++ 2021 (St.Petersbug, Russia): A popular DNS security overview (presentation) (in Russian)             Sep 2021
+RootConf 2009 (Moscow, Russia): Simple mail server architecture (presentation) (in Russian)                      Apr 2009
+ENOG 14 (Minsk, Belarus): Domain operator — guide to DNSSEC (presentation) (in Russian)                          Oct 2017
+CryptoInsatallFest 5 (Moscow, Russia): A popular DNS security overview (presentation) (in Russian)               Oct 2018
+Saint HighLoad++ 2021 (St.Petersbug, Russia): A popular DNS security overview (presentation) (in Russian)       Sep 2021
 
